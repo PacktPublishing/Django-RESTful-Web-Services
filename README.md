@@ -1,2 +1,2 @@
-# Django-RESTFul-Web-Services
-Django RESTFul Web Services, published by Packt
+# Django-RESTful-Web-Services
+Django RESTful Web Services, published by Packt

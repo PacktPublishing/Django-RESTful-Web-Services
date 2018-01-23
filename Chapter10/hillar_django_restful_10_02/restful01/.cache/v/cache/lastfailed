@@ -1,0 +1,5 @@
+{
+  "drones/tests.py::APITestCase": true,
+  "drones/tests.py::DroneCategoryTests": true,
+  "drones/tests.py::PilotTests": true
+}

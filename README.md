@@ -1,5 +1,6 @@
 # Django RESTful Web Services
 This is the code repository for [Django RESTful Web Services](https://www.packtpub.com/web-development/django-restful-web-services?utm_source=github&utm_medium=repository&utm_campaign=9781788833929), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+
 ## About the Book
 Django is a Python web framework that makes the web development process very easy. It reduces the amount of trivial code, which simplifies the creation of web applications and results in faster development. It is very powerful and a great choice for creating RESTful web services.
 
@@ -33,6 +34,3 @@ Any computer or device capable of running a modern web browser compatible with H
 * [Building RESTful Python Web Services](https://www.packtpub.com/application-development/building-restful-python-web-services?utm_source=github&utm_medium=repository&utm_campaign=9781786462251)
 
 * [Building RESTful Python Web Services with Tornado [Video]](https://www.packtpub.com/application-development/building-restful-python-web-services-tornado-video?utm_source=github&utm_medium=repository&utm_campaign=9781788472036)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
